@@ -2,3 +2,4 @@
 cpp/HelloWorld
 .vscode/launch.json
 .vscode/tasks.json
+.venv/*
